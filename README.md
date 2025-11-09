@@ -1,5 +1,4 @@
 # Monthly Sales Forecasting (Time Series ML)
-<img src="https://your-image-url-here.png" width="600"/>
 
 
 This project uses historical retail sales data to forecast the next 12 months of sales using a Time Series model (ARIMA).  
