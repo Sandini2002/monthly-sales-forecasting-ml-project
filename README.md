@@ -45,9 +45,9 @@ The goal is to support better business decision-making through data-driven deman
 
 | File | Description |
 |------|-------------|
-| `/data/train.csv` | original dataset |
-| `/notebook/sales_forecasting.ipynb` | full code + charts |
-| `/docs/Sales_Forecasting_Project_Explanation.docx` | full written explanation |
+| `train.csv` | original dataset |
+| `sales_forecasting.ipynb` | full code + charts |
+| `Sales_Forecasting_Project_Explanation.docx` | full written explanation |
 | `/images/*` | forecast visuals |
 | `README.md` | this document |
 
